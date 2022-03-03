@@ -1,3 +1,6 @@
+# ** This repository has been archived **
+This repository is still available as a point-in-time reference, but no further updates or support will be prioritized.
+
 # Entity Resolution Quiz Demo
 This sample shows how to use entity resolution in a simple quiz.
 
